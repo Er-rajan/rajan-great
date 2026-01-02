@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rajan-great.
 - 👀 I’m interested in Computer desining, wed devloping and AI/ML enginner.
-- 🌱 I’m currently learning Coding.
+- 🌱 I’m currently learning to train a ML modules.
 - 💞️ I’m a college boy form city Prayagraj U.P. India.
 - 📫 How to reach me ,  rraajjaann2001@gmail.com
 my AI chat Bot,
